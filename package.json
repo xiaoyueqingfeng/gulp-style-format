@@ -1,0 +1,20 @@
+{
+  "name": "gulp-style-format",
+  "version": "0.9.0",
+  "main": "index.js",
+  "author": "滕磊 <admin@tides.cn>",
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "css",
+    "format",
+    "gulpplugin",
+    "gulp-plugin",
+    "gulp-style-format",
+    "gulp css format",
+    "gulp less format"
+  ],
+  "dependencies": {
+    "through2": "^4.0.2"
+  }
+}
